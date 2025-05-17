@@ -6,6 +6,7 @@ This repo contains practice notebooks for machine learning algorithms.
 - ✅ Linear Regression
 - ✅ Logistic Regression
 - ✅ KMeans Clustering
+- ✅ KNN
 
 Each notebook includes:
 - Explanation
