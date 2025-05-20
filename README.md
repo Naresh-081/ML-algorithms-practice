@@ -7,6 +7,7 @@ This repo contains practice notebooks for machine learning algorithms.
 - ✅ Logistic Regression
 - ✅ KMeans Clustering
 - ✅ KNN
+- ✅ SVM
 
 Each notebook includes:
 - Explanation
