@@ -8,6 +8,8 @@ This repo contains practice notebooks for machine learning algorithms.
 - ✅ KMeans Clustering
 - ✅ KNN
 - ✅ SVM
+- ✅ Decision Tree
+- ✅ Random Forest
 
 Each notebook includes:
 - Explanation
