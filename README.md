@@ -11,6 +11,8 @@ This repo contains practice notebooks for machine learning algorithms.
 - ✅ Decision Tree
 - ✅ Random Forest
 
+- Neural Network For Handwritten Digits Classification
+
 Each notebook includes:
 - Explanation
 - Code
