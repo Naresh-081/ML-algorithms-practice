@@ -12,6 +12,7 @@ This repo contains practice notebooks for machine learning algorithms.
 - ✅ Random Forest
 
 - Neural Network For Handwritten Digits Classification
+- Convolutional Neural Network (CNN)
 
 Each notebook includes:
 - Explanation
